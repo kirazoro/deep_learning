@@ -10,7 +10,7 @@ Welcome to the **Deep Learning Projects Repository**! This repository contains m
 - [Usage](#usage)
 - [Dataset Sources](#dataset-sources)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -86,9 +86,6 @@ $ python fake_news_classifier.py
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## License
-
-This repository is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
